@@ -1,11 +1,14 @@
 import React from 'react'
 import '../css/App.css'
+import '../css/reset.css'
+import '../css/style.css'
+
+
 
 
 const App = () => {
 	return <div>
-        <h1>Hello, rreeedsdssdsdsdsdde</h1>
-        
+         <p>Product</p>   
         </div>
 }
 
